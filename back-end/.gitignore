@@ -8,7 +8,7 @@ target/
 docker-compose.yml
 
 # Ignore application properties file
-/back-end/src/main/resources/application.properties
+src/main/resources/application.properties
 
 ### STS ###
 .apt_generated
